@@ -1,14 +1,14 @@
 {
-  "name": "turbolinks-animate",
-  "version": "3.2.1",
+  "name": "tev-turbo-animate",
+  "version": "3.2.3",
   "description": "Rich & adaptive animations for apps using Turbolinks™",
   "main": "src/index.js",
-  "homepage": "https://jonhue.me/repos/turbolinks-animate",
+  "homepage": "https://martian.media/repos/turbo-animate",
   "bugs": {
-    "url": "https://github.com/jonhue/turbolinks-animate/issues",
-    "email": "me@jonhue.me"
+    "url": "https://github.com/tevio/turbo-animate/issues",
+    "email": "steve@martian.media"
   },
-  "repository": "https://github.com/jonhue/turbolinks-animate",
+  "repository": "https://github.com/tevio/turbo-animate",
   "author": "Jonas Hübotter <me@jonhue.me>",
   "license": "MIT",
   "engines": {
@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "animate.css": "^4.1.1",
-    "turbolinks": "^5.2.0"
+    "@hotwired/turbo": "^7.3.0"
   },
   "devDependencies": {
     "eslint": "^8.3.0"
